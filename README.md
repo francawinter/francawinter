@@ -1,12 +1,12 @@
 # Franca Winter 
 
-Developer / Designer
+software developer & designer
 
-Currently realizing projects with React / Laravel
+currently realizing projects with React / Laravel
 
 
-- Software developer at [Atelier Disko](https://atelierdisko.de/) since > 2.5 years
+- software developer at [Atelier Disko](https://atelierdisko.de/) since > 2.5 years
 - B.A. [communication design](https://www.hs-mainz.de/studium/studiengaenge/gestaltung/bachelor-kommunikationsdesign/uebersicht/)
 
 
-Frontend Sketchbook: https://codepen.io/collection/XjEgrd
+frontend sketchbook: https://codepen.io/collection/XjEgrd
